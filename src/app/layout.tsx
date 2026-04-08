@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BarberBook - Agendamento de Barbearia",
+  title: "BarberFlow - Agendamento de Barbearia",
   description: "Sistema de agendamento online para barbearia",
 };
 

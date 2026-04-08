@@ -46,7 +46,7 @@ export default function CadastroPage() {
   return (
     <div className="rounded-2xl border border-gray-800 bg-gray-900 p-8 shadow-xl">
       <div className="mb-6 text-center">
-        <h1 className="text-2xl font-bold text-white">BarberBook</h1>
+        <h1 className="text-2xl font-bold text-white">BarberFlow</h1>
         <p className="mt-1 text-sm text-gray-400">Crie sua conta</p>
       </div>
 
